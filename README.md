@@ -36,3 +36,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker"/></a>
 </p>
+
+
+### Some GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gdarid&layout=compact&theme=dark"/>
+
