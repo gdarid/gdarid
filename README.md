@@ -1,23 +1,8 @@
-<!--
-**gdarid/gdarid** is a special repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi ! I'm Guillaume 👋 </h1>
+## Hi ! I'm Guillaume
 
 #### Languages :
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask"/></a>
@@ -28,17 +13,24 @@ Here are some ideas to get you started:
 
 #### Tools :
 
-<p align="center">
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"/></a>
-  <a href="https://www.sqlite.org/index.html"><img src="https://skillicons.dev/icons?i=sqlite"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker"/></a>
+<p align="left">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,vite,postgresql,sqlite,docker,vscode,git,github,githubactions,gitlab,postman,npm,linux" />
+  </a>
 </p>
 
 
-### Some GitHub Stats
+<!--
+**gdarid/gdarid** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gdarid&layout=compact&theme=dark"/>
+Here are some ideas to get you started:
 
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
